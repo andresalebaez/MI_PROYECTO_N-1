@@ -7,7 +7,7 @@ import numpy as np
 #Le damos a FastApi un título, una descripción y una versión.
 app = FastAPI()
 
-df = pd.read_csv("C:\\Users\\andres\\AppData\\Local\\Programs\\Python\\Python310\\MLOpsReviews\\streaming_ratings.csv") 
+df = pd.read_csv("streaming_ratings.csv") 
 
 app = FastAPI(title='Proyecto Individual',
             description='Data Science',
