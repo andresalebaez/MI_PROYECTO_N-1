@@ -1,0 +1,46 @@
+<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
+
+# <h1 align=center>      **HENRY - COHORTE Nº 8 - DATA SCIENCE** </h1>
+# <h1 align=center>      **PROYECTO INDIVIDUAL Nº 1 - ANDRES BAEZ** </h1>
+
+<p align="center">
+<img src="https://dynatec.es/wp-content/uploads/2020/03/Ingenieria-4.0-portada-1.jpg" height=300>
+</p>
+
+¡Bienvenidos a mi primer proyecto individual de la etapa de labs! En esta ocasión, realizare un trabajo situándome en el rol de un ***Data Engineer***.
+
+## **INTRODUCCION**
+
+<p align="center">
+<img src="https://stdd.es/wp-content/uploads/2022/07/apis.jpg" height=300>
+</p>
+En este proyecto de estudio, se asume el rol de un Data Engineer en una start-up que provee servicios de agregación de plataformas de streaming. La tarea principal es preparar los datos de la empresa para crear un sistema de recomendación de películas y series. Al revisar los datos, se encontró que la calidad y madurez de los mismos era baja, por lo que se debe realizar un trabajo rápido de Data Engineering para transformar los datos y prepararlos para la creación de un MVP (Minimum Viable Product) en la próxima semana.
+
+Se proponen una serie de transformaciones a los datos, como la creación de un campo de identificación único, la corrección de valores nulos en el campo de calificación, la normalización de fechas y texto, y la conversión de la duración en dos campos separados. Estas transformaciones permitirán preparar los datos para la creación de un modelo de recomendación de películas y series.
+
+Además, se propone desarrollar una API utilizando el framework FastAPI para disponibilizar los datos de la empresa y permitir su consulta mediante funciones específicas. Las consultas propuestas incluyen información sobre la película con mayor duración, la cantidad de películas por plataforma con un puntaje mayor a cierto valor en determinado año, la cantidad de películas por plataforma, y el actor que más se repite según plataforma y año.
+
+El objetivo final de este proyecto es tener un MVP que permita a la start-up ofrecer un sistema de recomendación de películas y series a sus usuarios, lo que mejorará la experiencia del usuario y la posición de la empresa en el mercado de las plataformas de streaming.
+
+
+<p align="center">
+<img src="https://static.vecteezy.com/system/resources/previews/006/947/132/non_2x/computer-reaction-faces-internet-funny-meme-man-staring-at-computer-screen-common-memes-used-across-internet-in-chats-of-gifs-free-vector.jpg" height=300>
+</p>
+
+
+## **VIDEO INTRODUCTORIO EN LA PLATAFORMA YOUTUBE**
+https://youtu.be/M1fii9tCjw8
+
+
+Bibliografía consultada:
+Toda la bibliografía recomendada y provista durante el bootcamp y las clases de todos los días. (Si queres conocer más sobre esto, ingresá acá
+Videos de youtube como: 
+https://www.youtube.com/watch?v=_eWEmRWhk9A
+https://www.youtube.com/watch?v=2tOhTGBWZXY&list=LL
+https://www.youtube.com/watch?v=BvvH3ohis6E
+https://www.youtube.com/watch?v=J0y2tjBz2Ao&t=827s
+Sitios de internet como: https://www.fastapitutorial.com/blog/fastapi-course/
+https://medium.com/dev-jam/docker-in-a-nutshell-f2e315211195
+https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/
+https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker
+https://fastapi.tiangolo.com/tutorial/
